@@ -1,0 +1,16 @@
+{
+    "name": "theo/eastpoint",
+    "description": "Sign-Up and Login form",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eastpoint",
+            "email": "tkwapong001@st.ug.edu.gh"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "robmorgan/phinx": "dev-master"
+    }
+}
